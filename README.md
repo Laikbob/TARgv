@@ -1,5 +1,5 @@
 # TARgv 
- Targvaraarenduse git ülesanne
+Tarkvara arendusprotsess git ülesanne
 <a name="readme-top"></a>
 ## TODO list
 * Vasta 1 küsimuseid
