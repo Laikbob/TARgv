@@ -2,9 +2,9 @@
  Targvaraarenduse git ülesanne
 <a name="readme-top"></a>
 ## TODO list
-* Vasta 1 kysimuseid
-* Vasta 2 kysimuseid
-* Vasta 3 kysimuseid
-* Pärast kysimusi vastamist kirjuta kõrval ausalt, kas ise vastasin või kasutasid *abi*
-* Mine ära
+* Vasta 1 küsimuseid
+* Vasta 2 küsimuseid
+* Vasta 3 küsimuseid
+* Pärast küsimusi vastamist kirjuta kõrval ausalt, kas ise vastasin või kasutasid *abi*
+* Tubli, et vasta küsimused
 <a href="#readme-top">Ülesse</a>
